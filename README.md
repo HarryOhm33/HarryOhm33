@@ -2,16 +2,17 @@
 <h3 align="center">🚀 MERN Stack & Django Developer | Backend Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hari-Om&label=Profile%20views&color=0e75b6&style=flat" alt="Hari-Om" />
+  <img src="https://komarev.com/ghpvc/?username=HarryOhm33&label=Profile%20views&color=0e75b6&style=flat" alt="HarryOhm33" />
 </p>
 
 ---
 
 ### 💫 About Me:
-- 🔭 I’m currently working on **MERN & Django Projects**
-- 🌱 I’m learning **Machine Learning & AI Integration with Node.js/Django**
-- 💬 Ask me about **MERN, Django, REST APIs, Authentication, and Deployment**
-- 📫 How to reach me: **hariom@example.com**
+- 🔭 I’m currently building **MERN & Django projects**
+- ❤️ Passionate about **Backend Development**
+- 💬 Ask me about **APIs, Authentication, Databases, and Deployment**
+- 📫 Reach me at: **hari333333om@gmail.com**
+- 🌐 Portfolio: [harryohm33.netlify.app](https://harryohm33.netlify.app)
 - ⚡ Fun fact: I debug 90% of my code with `console.log()` 😄
 
 ---
@@ -47,22 +48,23 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hari-Om&show_icons=true&theme=radical" alt="Hari-Om stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarryOhm33&show_icons=true&theme=radical" alt="HarryOhm33 stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-Om&theme=radical" alt="Hari-Om streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryOhm33&theme=radical" alt="HarryOhm33 streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-Om&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryOhm33&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" /></a>
-<a href="mailto:hariom@example.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" /></a>
-<a href="https://github.com/Hari-Om" target="_blank"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" /></a>
+<a href="https://linkedin.com/in/HarryOhm33" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" /></a>
+<a href="mailto:hari333333om@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" /></a>
+<a href="https://github.com/HarryOhm33" target="_blank"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" /></a>
+<a href="https://harryohm33.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=google-chrome" /></a>
 </p>
 
 ---

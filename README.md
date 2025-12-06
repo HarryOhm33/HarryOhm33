@@ -1,6 +1,6 @@
 <!-- Animated Typing Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00ADEF&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Hari+Om;Full+Stack+Web+Developer;MERN+%2B+Django+Backend+Developer;Problem+Solver+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=700&color=00ADEF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hari+Om;Full+Stack+Web+Developer;MERN+%2B+Django+Backend+Developer" />
 </h1>
 
 <h3 align="center">🚀 MERN Stack | Django | Backend Developer</h3>

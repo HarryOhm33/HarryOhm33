@@ -49,13 +49,6 @@
 
 ---
 
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarryOhm33&theme=dracula&margin-w=10&no-bg=true&row=1" />
-</p>
-
----
-
 ## 📊 **GitHub Stats (Working Mirrors)**
 
 <p align="center">
